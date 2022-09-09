@@ -1,9 +1,8 @@
-# Docusar Frontend Public
+# Docusar Public
 
-The [Docusar](https://docusar.com) frontend is developed in the private repository
-https://github.com/useblocks/docusar-fe.
+[Docusar](https://docusar.com) is developed in private repositories.
 
-This public repo exists to track issues for the private repo.
+This public repo exists to track issues for the private repos.
 Users can create issues, track progress and see the milestone planning.
 
 This is needed as Github does not feature
